@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cff8329e-3887-476a-b129-259236efdc27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Fracao/Fracao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Fracao/Fracao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Fracao/src/Fracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Fracao/src/Fracao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Fracao/src/FracaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Fracao/src/FracaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Siguinha/Siguinha.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/Siguinha/Siguinha.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/SistemaBancario/SistemaBancario.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/Comp2_2020_PLE/SistemaBancario/SistemaBancario.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/Comp2_2020_PLE/Album/Album.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/Comp2_2020_PLE/Album/Album.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/Comp2_2020_PLE/Siguinha/Siguinha.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/Comp2_2020_PLE/Siguinha/Siguinha.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siguinha/Siguinha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siguinha/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siguinha/src/AlunoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siguinha/src/Disciplina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siguinha/src/ItemDeHistorico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siguinha/src/Siguinha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/SistemaBancario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/src/Agencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/src/Banco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/src/BancoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/src/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/src/Correntista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/src/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaBancario/src/Principal.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hh7D4RqN1ODASkgcKiI2tId4uQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab 3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cff8329e-3887-476a-b129-259236efdc27" name="Default Changelist" comment="" />
+      <created>1600451351075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600451351075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600451361407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600451361407" />
+  </component>
+</project>
